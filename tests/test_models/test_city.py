@@ -5,7 +5,7 @@ from models.city import City
 
 
 class test_City(test_basemodel):
-    """ """
+    """provides an all possible test cases for test model"""
 
     def __init__(self, *args, **kwargs):
         """ """
